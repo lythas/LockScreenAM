@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bgs",
+    "name": "Backgrouds",
+    "data": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
+  },
+  {
+    "id": "players",
+    "name": "Players",
+    "data": [
+      "BASE.png",
+      "BLACK.png",
+      "BLUE.png",
+      "BROWN.png",
+      "CYAN.png"
+    ]
+  },
+  {
+    "id": "outfits",
+    "name": "Outfits",
+    "data": [
+      "BASE.png",
+      "ALICE.png",
+      "ASTRO.png",
+      "BALLERINA.png",
+      "BALLERINAazul.png",
+      "BALLERINAmorada.png"
+    ]
+  },
+  {
+    "id": "hats",
+    "name": "Hats",
+    "data": [
+      "BASE.png",
+      "ALICE.png",
+      "ALIEN.png",
+      "ANTHENA.png",
+      "ASTRO.png",
+      "BAG.png"
+    ]
+  },
+  {
+    "id": "pets",
+    "name": "Pets",
+    "data": [
+      "BASE.png",
+      "BEDCRAB.png",
+      "BRAINSLUG.png",
+      "DOG.png"
+    ]
+  },
+  {
+    "id": "vote",
+    "name": "Vote",
+    "data": [
+      "BASE.png",
+      "CREWMATE.png",
+      "defeat.png",
+      "IMPOSTOR.png"
+    ]
+  }
+]
